@@ -5,12 +5,12 @@ Plugin URI: http://alexpolski.com/projects/image-drop-shadow-wordpress-plugin/
 Description: Image Drop Shadow wordpress plugin adds stylish drop shadow to
 images posted on your blog using jQuery. The plugin uses the method described
 by Brian Williams in the article "Onion Skinned Drop Shadows".
-Version: 1.0
+Version: 1.1
 Author: Alex Polski
 Author URI: http://alexpolski.com/
 */
 
-/*  Copyright 2008  Alex Polski  (email : ap@alexpolski.com)
+/*  Copyright 2008-2009  Alex Polski  (email : ap@alexpolski.com)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by

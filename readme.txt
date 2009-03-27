@@ -3,7 +3,7 @@ Contributors: Alex Polski
 Donate link: http://alexpolski.com/
 Tags: images, drop shadow, effects
 Stable tag: trunk
-Tested up to: 2.6
+Tested up to: 2.7.1
 
 Image Drop Shadow wordpress plugin adds stylish drop shadow to images posted on your blog using jQuery.
 
@@ -17,3 +17,14 @@ http://www.alistapart.com/articles/onionskin
 == Installation ==
 
 Upload the Image Drop Shadow plugin to your blog and activate it.
+
+== Changelog ==
+
+     Version Date       Changes
+
+     1.1     2009/03/27 Updated shadow.gif to support larger images up to 800x600
+     1.0     2008/08/03 Initial release
+
+== Screenshots ==
+
+1. Example
