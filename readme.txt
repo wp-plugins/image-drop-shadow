@@ -1,6 +1,6 @@
 === Image Drop Shadow ===
 Contributors: Alex Polski
-Donate link: http://alexpolski.com/
+Donate link: https://www.plimus.com/jsp/buynow.jsp?contractId=2303130
 Tags: images, drop shadow, effects
 Stable tag: trunk
 Tested up to: 2.7.1
